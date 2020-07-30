@@ -1,0 +1,6 @@
+matplotlib
+scikit-learn
+pykitti
+tensorflow gpu version 1.13.1
+tensorflow version 1.13
+
