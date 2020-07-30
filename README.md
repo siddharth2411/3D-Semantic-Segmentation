@@ -33,6 +33,8 @@ In this project, Open3D was used for
 - Data pre-processing, in particular, voxel-based down-sampling.
 - Point cloud interpolation, in particular, fast nearest neighbor search for label
   interpolation.
+  
+ This project is forked and modified from the <a href="https://github.com/intel-isl/Open3D-PointNet2-Semantic3D">repo</a> which in turn is forked from the original repo of <a href= "https://github.com/charlesq34/pointnet2">PointNet2</a>. I thank the original authors for sharing their methods.
 
 ## Procedure
 
